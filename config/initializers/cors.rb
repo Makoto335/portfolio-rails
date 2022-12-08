@@ -6,7 +6,7 @@
 # Read more: https://github.com/cyu/rack-cors
 Rails.application.config.middleware.insert_before 0, Rack::Cors do
   allow do
-    origins 'https://test-pf-vue.vercel.app'
+    origins 'http://localhost:8081'
 
     resource '*', headers: :any, methods: %i[post options head]
   end

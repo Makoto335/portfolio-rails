@@ -20,6 +20,10 @@ https://portfolio-vue-three.vercel.app/
 
 - Vue.js 3.2.45
 - Vue CLI 5.0.8
+  - anime.js 3.2.1
+  - Axios 0.27.2
+  - body-scroll-lock 4.0.0-beta.0
+  - VeeValidate 4.6.9
 - Vercel
 
 バックエンド<br>https://github.com/Makoto335/portfolio-rails

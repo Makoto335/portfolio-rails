@@ -4,8 +4,9 @@
  <img width="500" alt="スクリーンショット 2020-05-07 0 06 18" src="https://user-images.githubusercontent.com/102998595/206843251-2b16b425-27de-462b-a071-75427b3ac93b.png">
 </div>
 
+# 概要
 ポートフォリオサイトです。<br >
-portfolio-vueとAPIサーバとして作ったportfolio-railsと連携してSPAかつレスポンシブなサイトにしました。 <br >
+フロントにはVue、バックエンドにRailsAPIモードのシンプルなSPAかつレスポンシブなサイトにしました。 <br >
 <br >
 
 # URL

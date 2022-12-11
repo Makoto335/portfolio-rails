@@ -38,4 +38,3 @@ https://portfolio-vue-three.vercel.app/
 - ハンバーガーメニュー
 - モーダルウィンドウ
 
-# ライセンス

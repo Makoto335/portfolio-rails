@@ -1,24 +1,41 @@
-# README
+# portfolio-website
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<div align="center">
+ <img width="500" alt="スクリーンショット 2020-05-07 0 06 18" src="https://user-images.githubusercontent.com/102998595/206843251-2b16b425-27de-462b-a071-75427b3ac93b.png">
+</div>
 
-Things you may want to cover:
+ポートフォリオサイトです。<br >
+portfolio-vueとAPIサーバとして作ったportfolio-railsと連携してSPAかつレスポンシブなサイトにしました。 <br >
+<br >
 
-* Ruby version
+# URL
 
-* System dependencies
+https://portfolio-vue-three.vercel.app/
+<br ><br >
 
-* Configuration
+# 使用技術
 
-* Database creation
+フロント
+<br >https://github.com/Makoto335/portfolio-vue
 
-* Database initialization
+- Vue.js 3.2.45
+- Vue CLI 5.0.8
+- Vercel
 
-* How to run the test suite
+バックエンド<br>https://github.com/Makoto335/portfolio-rails
 
-* Services (job queues, cache servers, search engines, etc.)
+- Ruby 3.1.2
+- Ruby on Rails 6.1.7
+- Puma
+- Heroku
 
-* Deployment instructions
+# 機能一覧
 
-* ...
+- SPA
+- JavaScript アニメーション
+- AJAX 通信によるコンタクトフォーム
+- レスポンシブデザイン
+- ハンバーガーメニュー
+- モーダルウィンドウ
+
+# ライセンス
